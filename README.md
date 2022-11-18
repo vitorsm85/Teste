@@ -4,5 +4,4 @@
 
 Para rondar esse projeto na sua maquina, por favor digite:
 '''
-
-npm install
+node app.js
